@@ -33,8 +33,6 @@ We believe in **simplifying technology** without compromising on power. Whether 
 | [saas-template](https://github.com/AbstraCore/saas-template) | Open-source SaaS starter template for developers. |
 | [opensource-labs](https://github.com/AbstraCore/opensource-labs) | Collection of free, open-source tools & projects. |
 
-*(Edit or remove repositories as per your actual projects.)*  
-
 ---
 
 ## :rocket: **Get Involved**  
